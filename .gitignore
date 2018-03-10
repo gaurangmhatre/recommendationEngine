@@ -1,0 +1,9 @@
+.DS_Store
+/ml-100k
+/node_modules
+/public/lib/jquery.js
+redistest.js
+/build
+binding.gyp
+dump.rdb
+npm-debug.log
